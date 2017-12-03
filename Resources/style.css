@@ -44,7 +44,7 @@ header a {
   align-items: center;
   height: 700px;
   width: 1200px;
-  background-image: url("/Users/kennethramirezcastro/Desktop/Projects/Tea_Cozy_v2/Resources/Images/img-mission-background.jpg");
+  background-image: url("/Users/kennethramirezcastro/Desktop/Projects/Tea_Cozy/Resources/Images/img-mission-background.jpg");
 }
 .missionbox {
   text-align: center;
@@ -81,7 +81,7 @@ header a {
   flex-wrap: wrap;
   height: 500px;
   width: 1200px;
-  background-image: url("/Users/kennethramirezcastro/Desktop/Projects/Tea_Cozy_v2/Resources/Images/img-locations-background.jpg");
+  background-image: url("/Users/kennethramirezcastro/Desktop/Projects/Tea_Cozy/Resources/Images/img-locations-background.jpg");
 }
 .eachlocation {
   display: flex;
