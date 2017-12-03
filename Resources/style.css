@@ -44,7 +44,7 @@ header a {
   align-items: center;
   height: 700px;
   width: 1200px;
-  background-image: url("./images/img-mission-background.jpg");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
 }
 .missionbox {
   text-align: center;
@@ -81,7 +81,7 @@ header a {
   flex-wrap: wrap;
   height: 500px;
   width: 1200px;
-  background-image: url("./images/img-locations-background.jpg");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
 }
 .eachlocation {
   display: flex;
